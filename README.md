@@ -19,7 +19,7 @@ Set up an editor of choice as specified [here](https://docs.flutter.dev/get-star
 Download the project.
 
 ```bash
-git clone https://github.com/Kartik-Katkar/Netscout-Hackathon-124.git
+git clone https://github.com/bilalijaz786/plant_disease_detection_app.git
 ```
 
 Run the below command inside the project directory to install necessary packages.
