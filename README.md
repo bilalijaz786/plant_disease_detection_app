@@ -4,7 +4,6 @@
 
 - Project: Leaf Disease Detection App using Flutter.
 - Description : A Flutter app that detects a plant's disease given a photo of an affected part of the plant.
-- Youtube Video Link: [click here](https://youtu.be/YlkDWJhiR54)
 - The application was built using Flutter and a tflite model from Teachable Machine Learning by Google. The dataset was from KAGGLE.
 
 ## Visuals
